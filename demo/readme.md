@@ -2,7 +2,17 @@ Demo of our method and comparison with other methods & ground truth.
 
 <p float="left">
   <img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gKR_sBM_cAll_d30_mKR2_ch02_gt.gif" width="200" title="Ground Truth"/>
+  <br>
+  <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+   display: inline-block;
+   color: #999;
+   padding: 2px;">Ground Truth</div>
   <img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gKR_sBM_cAll_d30_mKR2_ch02_gt.gif" width="200" title="Ground Truth"/>
+  <br>
+  <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+   display: inline-block;
+   color: #999;
+   padding: 2px;">Ground Truth</div>
 </p>
 
 <center>
