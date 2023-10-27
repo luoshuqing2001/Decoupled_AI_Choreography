@@ -6,6 +6,7 @@ Demo of our method and comparison with other methods & ground truth.
         <td ><center><img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gKR_sBM_cAll_d30_mKR2_ch02_gt.gif"  width="200"> <br> Ground Truth </center></td>
         <td ><center><img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gKR_sBM_cAll_d30_mKR2_ch02_our_1.gif" width="200"> <br> Ours 1 </center></td>
         <td ><center><img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gKR_sBM_cAll_d30_mKR2_ch02_our_2.gif" width="200"> <br> Ours 2 </center></td>
+        <td ><center><img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gKR_sBM_cAll_d30_mKR2_ch02_our_3.gif" width="200"> <br> Ours 3 </center></td>
     </tr>
 </table>
 
