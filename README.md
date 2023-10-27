@@ -1,2 +1,2 @@
-# Decoupled_AI_Choreograph
-Source code and demo for Decoupled AI Choreograph
+# Decoupled_AI_Choreography
+Source code and demo for Decoupled AI Choreography
