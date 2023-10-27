@@ -14,5 +14,6 @@ Demo of our method and comparison with other methods & ground truth.
 <table>
     <tr>
         <td ><center><img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gWA_sBM_cAll_d26_mWA0_ch02_gt.gif"  width="200"> <br> Ground Truth </center></td>
+        <td ><center><img src="https://github.com/luoshuqing2001/Decoupled_AI_Choreography/blob/main/demo/videos/gWA_sBM_cAll_d26_mWA0_ch02_our_1.gif"  width="200"> <br> Ground Truth </center></td>
     </tr>
 </table>
